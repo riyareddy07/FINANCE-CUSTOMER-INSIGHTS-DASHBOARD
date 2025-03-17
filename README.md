@@ -20,7 +20,7 @@ The "Financial Performance and Customer Insights Dashboard" provides a comprehen
 
 # Dashboard Insights
 
-Revenue and Loan Performance
+# Revenue and Loan Performance
 
 # Total Revenue by Region:
 
@@ -28,6 +28,7 @@ o	South: 0.14M
 o	East: 0.09M
 o	West: 0.08M
 o	North: 0.08M
+
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
 ](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/revenue%20by%20region.png)
 
@@ -43,8 +44,9 @@ o	Personal Loans: 17%
 #	Loan Amount Trends:
 
 o	The sum of Loan Amount by Customer ID and by Month shows distribution across different clients and periods.
+
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
-]((https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/AMOUNT%20BY%20DAY.png))
+](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/AMOUNT%20BY%20DAY.png)
 
 
 # Customer Demographics & Churn Analysis
@@ -78,6 +80,7 @@ o	Fraud Flags are monitored by Customer ID.
 #	Risk Assessment:
 
 o	Credit Score and Default Probability tracked for financial risk evaluation.
+
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
 ](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/high%20risk.png)
 
@@ -88,6 +91,7 @@ o	Credit Score and Default Probability tracked for financial risk evaluation.
 o	Stocks: 0.60M
 o	Bonds: 0.50M
 o	Mutual Funds: 0.50M
+
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
 ](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/ROI.png)
 
