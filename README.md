@@ -4,8 +4,8 @@ The "Financial Performance and Customer Insights Dashboard" provides a comprehen
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
 ](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/Finance%20dashboaed%201.png)
 
-![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
-](https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/Finance%20dashboard%202.png)
+
+https://github.com/riyareddy07/FINANCE-CUSTOMER-INSIGHTS-DASHBOARD/blob/main/Finance%20dashboard%202.png)
 
 # Key Performance Indicators (KPIs)
 
